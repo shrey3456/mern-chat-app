@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-	background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("https://us.123rf.com/450wm/nazarnj/nazarnj1512/nazarnj151200008/50338554-night-sky-milky-way-galaxy-background.jpg");
+	background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("https://i.pinimg.com/236x/85/79/23/85792329a89a409d2cc8d721b1256025.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
