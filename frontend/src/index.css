@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-	background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("https://img.reintech.io/variants/o2douig2cv91edd7suk5nqheflzd/e7b4ce09c703210ab8f75b017c7eaf0951c5a95b737ee8120602845c1c1d944b");
+	background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("../public/bg.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
